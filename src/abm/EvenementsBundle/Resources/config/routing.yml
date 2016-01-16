@@ -1,0 +1,3 @@
+abm_evenements_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: abmEvenementsBundle:Default:index }
